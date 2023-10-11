@@ -24,12 +24,12 @@ nav {
 }
 .nav-logo > .nav-logo-links {
   display: flex;
-  gap: 10px;
+  gap: 20px;
 }
 .nav-logo > .nav-logo-links > a:nth-child(1),
 .nav-logo > .nav-logo-links > a:nth-child(2) {
   display: flex;
-  gap: 15px;
+  gap: 5px;
 }
 .nav-logo > .nav-logo-links > a {
   text-decoration: none;
