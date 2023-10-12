@@ -173,6 +173,12 @@ ul.breadcrumb li + li:before {
   nav > .nav-logo > .nav-logo-links {
     display: none;
   }
+  nav > .nav-button {
+    flex-direction: row-reverse;
+  }
+  nav > .nav-button > a > span {
+    display: none;
+  }
   nav > .hidden {
     display: flex;
     gap: 5px;
