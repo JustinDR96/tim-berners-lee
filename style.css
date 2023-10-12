@@ -18,14 +18,11 @@ nav {
   padding: 20px;
 }
 nav > .hidden {
-  display: flex;
-  flex-direction: row;
   display: none;
 }
 .nav-logo {
   width: 100%;
   display: flex;
-  justify-content: center;
   gap: 3.5rem;
 }
 .nav-logo > .nav-logo-links {
@@ -170,6 +167,9 @@ ul.breadcrumb li + li:before {
     width: 100%;
     position: fixed;
   }
+  nav > .nav-logo {
+    justify-content: center;
+  }
   nav > .nav-logo > .nav-logo-links {
     display: none;
   }
@@ -181,6 +181,7 @@ ul.breadcrumb li + li:before {
   }
   nav > .hidden {
     display: flex;
+    flex-direction: row;
     gap: 5px;
   }
   main {
