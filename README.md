@@ -4,7 +4,7 @@
 
 ## Screenshots
 
-![screenshot desktop](/tim-berners-lee/images/Tim-Berners-Lee-desktop.png)
+![screenshot desktop](./images/Tim-Berners-Lee-desktop.png)
 ![screenshot mobile](/tim-berners-lee/images/Tim-Berners-Lee-mobile.png)
 
 ## Langages utilisés ?
