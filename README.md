@@ -11,6 +11,7 @@
 
 - HTML
 - CSS3
+- GitHub Pages
 
 ## Responsive ?
 
